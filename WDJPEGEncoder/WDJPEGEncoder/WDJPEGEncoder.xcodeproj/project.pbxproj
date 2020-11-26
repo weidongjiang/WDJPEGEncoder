@@ -16,6 +16,7 @@
 		4C57BF84256F54140033E319 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF83256F54140033E319 /* main.m */; };
 		4C57BF8E256F54150033E319 /* WDJPEGEncoderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF8D256F54150033E319 /* WDJPEGEncoderTests.m */; };
 		4C57BF99256F54150033E319 /* WDJPEGEncoderUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF98256F54150033E319 /* WDJPEGEncoderUITests.m */; };
+		4C57BFC0256F5A5C0033E319 /* jpeg_encoder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BFBF256F5A5C0033E319 /* jpeg_encoder.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		4C57BF94256F54150033E319 /* WDJPEGEncoderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WDJPEGEncoderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C57BF98256F54150033E319 /* WDJPEGEncoderUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WDJPEGEncoderUITests.m; sourceTree = "<group>"; };
 		4C57BF9A256F54150033E319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C57BFBE256F5A5C0033E319 /* jpeg_encoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = jpeg_encoder.h; sourceTree = "<group>"; };
+		4C57BFBF256F5A5C0033E319 /* jpeg_encoder.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = jpeg_encoder.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,8 @@
 		4C57BF70256F54120033E319 /* WDJPEGEncoder */ = {
 			isa = PBXGroup;
 			children = (
+				4C57BFBF256F5A5C0033E319 /* jpeg_encoder.cpp */,
+				4C57BFBE256F5A5C0033E319 /* jpeg_encoder.h */,
 				4C57BF71256F54120033E319 /* AppDelegate.h */,
 				4C57BF72256F54120033E319 /* AppDelegate.m */,
 				4C57BF74256F54120033E319 /* SceneDelegate.h */,
@@ -269,6 +274,7 @@
 				4C57BF79256F54120033E319 /* ViewController.m in Sources */,
 				4C57BF73256F54120033E319 /* AppDelegate.m in Sources */,
 				4C57BF84256F54140033E319 /* main.m in Sources */,
+				4C57BFC0256F5A5C0033E319 /* jpeg_encoder.cpp in Sources */,
 				4C57BF76256F54120033E319 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
