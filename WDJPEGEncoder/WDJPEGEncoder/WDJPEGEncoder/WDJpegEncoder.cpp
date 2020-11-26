@@ -6,7 +6,7 @@
 #include <memory.h>
 #include <math.h>
 
-#include "jpeg_encoder.h"
+#include "WDJpegEncoder.h"
 
 namespace {
 //-------------------------------------------------------------------------------
