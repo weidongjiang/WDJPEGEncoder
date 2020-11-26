@@ -7,71 +7,71 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4C57BF12256F47E90033E319 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF11256F47E90033E319 /* AppDelegate.m */; };
-		4C57BF15256F47E90033E319 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF14256F47E90033E319 /* SceneDelegate.m */; };
-		4C57BF18256F47E90033E319 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF17256F47E90033E319 /* ViewController.m */; };
-		4C57BF1B256F47E90033E319 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C57BF19256F47E90033E319 /* Main.storyboard */; };
-		4C57BF1D256F47ED0033E319 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C57BF1C256F47ED0033E319 /* Assets.xcassets */; };
-		4C57BF20256F47ED0033E319 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C57BF1E256F47ED0033E319 /* LaunchScreen.storyboard */; };
-		4C57BF23256F47ED0033E319 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF22256F47ED0033E319 /* main.m */; };
-		4C57BF2D256F47ED0033E319 /* WDJPEGEncoderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF2C256F47ED0033E319 /* WDJPEGEncoderTests.m */; };
-		4C57BF38256F47ED0033E319 /* WDJPEGEncoderUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF37256F47ED0033E319 /* WDJPEGEncoderUITests.m */; };
+		4C57BF73256F54120033E319 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF72256F54120033E319 /* AppDelegate.m */; };
+		4C57BF76256F54120033E319 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF75256F54120033E319 /* SceneDelegate.m */; };
+		4C57BF79256F54120033E319 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF78256F54120033E319 /* ViewController.m */; };
+		4C57BF7C256F54120033E319 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C57BF7A256F54120033E319 /* Main.storyboard */; };
+		4C57BF7E256F54140033E319 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C57BF7D256F54140033E319 /* Assets.xcassets */; };
+		4C57BF81256F54140033E319 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C57BF7F256F54140033E319 /* LaunchScreen.storyboard */; };
+		4C57BF84256F54140033E319 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF83256F54140033E319 /* main.m */; };
+		4C57BF8E256F54150033E319 /* WDJPEGEncoderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF8D256F54150033E319 /* WDJPEGEncoderTests.m */; };
+		4C57BF99256F54150033E319 /* WDJPEGEncoderUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C57BF98256F54150033E319 /* WDJPEGEncoderUITests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4C57BF29256F47ED0033E319 /* PBXContainerItemProxy */ = {
+		4C57BF8A256F54150033E319 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4C57BF05256F47E90033E319 /* Project object */;
+			containerPortal = 4C57BF66256F54120033E319 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4C57BF0C256F47E90033E319;
+			remoteGlobalIDString = 4C57BF6D256F54120033E319;
 			remoteInfo = WDJPEGEncoder;
 		};
-		4C57BF34256F47ED0033E319 /* PBXContainerItemProxy */ = {
+		4C57BF95256F54150033E319 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4C57BF05256F47E90033E319 /* Project object */;
+			containerPortal = 4C57BF66256F54120033E319 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4C57BF0C256F47E90033E319;
+			remoteGlobalIDString = 4C57BF6D256F54120033E319;
 			remoteInfo = WDJPEGEncoder;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4C57BF0D256F47E90033E319 /* WDJPEGEncoder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WDJPEGEncoder.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C57BF10256F47E90033E319 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		4C57BF11256F47E90033E319 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		4C57BF13256F47E90033E319 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
-		4C57BF14256F47E90033E319 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
-		4C57BF16256F47E90033E319 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		4C57BF17256F47E90033E319 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		4C57BF1A256F47E90033E319 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4C57BF1C256F47ED0033E319 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4C57BF1F256F47ED0033E319 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4C57BF21256F47ED0033E319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4C57BF22256F47ED0033E319 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4C57BF28256F47ED0033E319 /* WDJPEGEncoderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WDJPEGEncoderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C57BF2C256F47ED0033E319 /* WDJPEGEncoderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WDJPEGEncoderTests.m; sourceTree = "<group>"; };
-		4C57BF2E256F47ED0033E319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4C57BF33256F47ED0033E319 /* WDJPEGEncoderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WDJPEGEncoderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C57BF37256F47ED0033E319 /* WDJPEGEncoderUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WDJPEGEncoderUITests.m; sourceTree = "<group>"; };
-		4C57BF39256F47ED0033E319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C57BF6E256F54120033E319 /* WDJPEGEncoder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WDJPEGEncoder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C57BF71256F54120033E319 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4C57BF72256F54120033E319 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4C57BF74256F54120033E319 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
+		4C57BF75256F54120033E319 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
+		4C57BF77256F54120033E319 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4C57BF78256F54120033E319 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4C57BF7B256F54120033E319 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4C57BF7D256F54140033E319 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4C57BF80256F54140033E319 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4C57BF82256F54140033E319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C57BF83256F54140033E319 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4C57BF89256F54150033E319 /* WDJPEGEncoderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WDJPEGEncoderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C57BF8D256F54150033E319 /* WDJPEGEncoderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WDJPEGEncoderTests.m; sourceTree = "<group>"; };
+		4C57BF8F256F54150033E319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C57BF94256F54150033E319 /* WDJPEGEncoderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WDJPEGEncoderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C57BF98256F54150033E319 /* WDJPEGEncoderUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WDJPEGEncoderUITests.m; sourceTree = "<group>"; };
+		4C57BF9A256F54150033E319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4C57BF0A256F47E90033E319 /* Frameworks */ = {
+		4C57BF6B256F54120033E319 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C57BF25256F47ED0033E319 /* Frameworks */ = {
+		4C57BF86256F54150033E319 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C57BF30256F47ED0033E319 /* Frameworks */ = {
+		4C57BF91256F54150033E319 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -81,58 +81,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4C57BF04256F47E90033E319 = {
+		4C57BF65256F54120033E319 = {
 			isa = PBXGroup;
 			children = (
-				4C57BF0F256F47E90033E319 /* WDJPEGEncoder */,
-				4C57BF2B256F47ED0033E319 /* WDJPEGEncoderTests */,
-				4C57BF36256F47ED0033E319 /* WDJPEGEncoderUITests */,
-				4C57BF0E256F47E90033E319 /* Products */,
+				4C57BF70256F54120033E319 /* WDJPEGEncoder */,
+				4C57BF8C256F54150033E319 /* WDJPEGEncoderTests */,
+				4C57BF97256F54150033E319 /* WDJPEGEncoderUITests */,
+				4C57BF6F256F54120033E319 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4C57BF0E256F47E90033E319 /* Products */ = {
+		4C57BF6F256F54120033E319 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4C57BF0D256F47E90033E319 /* WDJPEGEncoder.app */,
-				4C57BF28256F47ED0033E319 /* WDJPEGEncoderTests.xctest */,
-				4C57BF33256F47ED0033E319 /* WDJPEGEncoderUITests.xctest */,
+				4C57BF6E256F54120033E319 /* WDJPEGEncoder.app */,
+				4C57BF89256F54150033E319 /* WDJPEGEncoderTests.xctest */,
+				4C57BF94256F54150033E319 /* WDJPEGEncoderUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4C57BF0F256F47E90033E319 /* WDJPEGEncoder */ = {
+		4C57BF70256F54120033E319 /* WDJPEGEncoder */ = {
 			isa = PBXGroup;
 			children = (
-				4C57BF10256F47E90033E319 /* AppDelegate.h */,
-				4C57BF11256F47E90033E319 /* AppDelegate.m */,
-				4C57BF13256F47E90033E319 /* SceneDelegate.h */,
-				4C57BF14256F47E90033E319 /* SceneDelegate.m */,
-				4C57BF16256F47E90033E319 /* ViewController.h */,
-				4C57BF17256F47E90033E319 /* ViewController.m */,
-				4C57BF19256F47E90033E319 /* Main.storyboard */,
-				4C57BF1C256F47ED0033E319 /* Assets.xcassets */,
-				4C57BF1E256F47ED0033E319 /* LaunchScreen.storyboard */,
-				4C57BF21256F47ED0033E319 /* Info.plist */,
-				4C57BF22256F47ED0033E319 /* main.m */,
+				4C57BF71256F54120033E319 /* AppDelegate.h */,
+				4C57BF72256F54120033E319 /* AppDelegate.m */,
+				4C57BF74256F54120033E319 /* SceneDelegate.h */,
+				4C57BF75256F54120033E319 /* SceneDelegate.m */,
+				4C57BF77256F54120033E319 /* ViewController.h */,
+				4C57BF78256F54120033E319 /* ViewController.m */,
+				4C57BF7A256F54120033E319 /* Main.storyboard */,
+				4C57BF7D256F54140033E319 /* Assets.xcassets */,
+				4C57BF7F256F54140033E319 /* LaunchScreen.storyboard */,
+				4C57BF82256F54140033E319 /* Info.plist */,
+				4C57BF83256F54140033E319 /* main.m */,
 			);
 			path = WDJPEGEncoder;
 			sourceTree = "<group>";
 		};
-		4C57BF2B256F47ED0033E319 /* WDJPEGEncoderTests */ = {
+		4C57BF8C256F54150033E319 /* WDJPEGEncoderTests */ = {
 			isa = PBXGroup;
 			children = (
-				4C57BF2C256F47ED0033E319 /* WDJPEGEncoderTests.m */,
-				4C57BF2E256F47ED0033E319 /* Info.plist */,
+				4C57BF8D256F54150033E319 /* WDJPEGEncoderTests.m */,
+				4C57BF8F256F54150033E319 /* Info.plist */,
 			);
 			path = WDJPEGEncoderTests;
 			sourceTree = "<group>";
 		};
-		4C57BF36256F47ED0033E319 /* WDJPEGEncoderUITests */ = {
+		4C57BF97256F54150033E319 /* WDJPEGEncoderUITests */ = {
 			isa = PBXGroup;
 			children = (
-				4C57BF37256F47ED0033E319 /* WDJPEGEncoderUITests.m */,
-				4C57BF39256F47ED0033E319 /* Info.plist */,
+				4C57BF98256F54150033E319 /* WDJPEGEncoderUITests.m */,
+				4C57BF9A256F54150033E319 /* Info.plist */,
 			);
 			path = WDJPEGEncoderUITests;
 			sourceTree = "<group>";
@@ -140,13 +140,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4C57BF0C256F47E90033E319 /* WDJPEGEncoder */ = {
+		4C57BF6D256F54120033E319 /* WDJPEGEncoder */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4C57BF3C256F47ED0033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoder" */;
+			buildConfigurationList = 4C57BF9D256F54150033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoder" */;
 			buildPhases = (
-				4C57BF09256F47E90033E319 /* Sources */,
-				4C57BF0A256F47E90033E319 /* Frameworks */,
-				4C57BF0B256F47E90033E319 /* Resources */,
+				4C57BF6A256F54120033E319 /* Sources */,
+				4C57BF6B256F54120033E319 /* Frameworks */,
+				4C57BF6C256F54120033E319 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -154,67 +154,67 @@
 			);
 			name = WDJPEGEncoder;
 			productName = WDJPEGEncoder;
-			productReference = 4C57BF0D256F47E90033E319 /* WDJPEGEncoder.app */;
+			productReference = 4C57BF6E256F54120033E319 /* WDJPEGEncoder.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4C57BF27256F47ED0033E319 /* WDJPEGEncoderTests */ = {
+		4C57BF88256F54150033E319 /* WDJPEGEncoderTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4C57BF3F256F47ED0033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoderTests" */;
+			buildConfigurationList = 4C57BFA0256F54150033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoderTests" */;
 			buildPhases = (
-				4C57BF24256F47ED0033E319 /* Sources */,
-				4C57BF25256F47ED0033E319 /* Frameworks */,
-				4C57BF26256F47ED0033E319 /* Resources */,
+				4C57BF85256F54150033E319 /* Sources */,
+				4C57BF86256F54150033E319 /* Frameworks */,
+				4C57BF87256F54150033E319 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4C57BF2A256F47ED0033E319 /* PBXTargetDependency */,
+				4C57BF8B256F54150033E319 /* PBXTargetDependency */,
 			);
 			name = WDJPEGEncoderTests;
 			productName = WDJPEGEncoderTests;
-			productReference = 4C57BF28256F47ED0033E319 /* WDJPEGEncoderTests.xctest */;
+			productReference = 4C57BF89256F54150033E319 /* WDJPEGEncoderTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4C57BF32256F47ED0033E319 /* WDJPEGEncoderUITests */ = {
+		4C57BF93256F54150033E319 /* WDJPEGEncoderUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4C57BF42256F47ED0033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoderUITests" */;
+			buildConfigurationList = 4C57BFA3256F54150033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoderUITests" */;
 			buildPhases = (
-				4C57BF2F256F47ED0033E319 /* Sources */,
-				4C57BF30256F47ED0033E319 /* Frameworks */,
-				4C57BF31256F47ED0033E319 /* Resources */,
+				4C57BF90256F54150033E319 /* Sources */,
+				4C57BF91256F54150033E319 /* Frameworks */,
+				4C57BF92256F54150033E319 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4C57BF35256F47ED0033E319 /* PBXTargetDependency */,
+				4C57BF96256F54150033E319 /* PBXTargetDependency */,
 			);
 			name = WDJPEGEncoderUITests;
 			productName = WDJPEGEncoderUITests;
-			productReference = 4C57BF33256F47ED0033E319 /* WDJPEGEncoderUITests.xctest */;
+			productReference = 4C57BF94256F54150033E319 /* WDJPEGEncoderUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4C57BF05256F47E90033E319 /* Project object */ = {
+		4C57BF66256F54120033E319 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1210;
 				TargetAttributes = {
-					4C57BF0C256F47E90033E319 = {
+					4C57BF6D256F54120033E319 = {
 						CreatedOnToolsVersion = 12.1;
 					};
-					4C57BF27256F47ED0033E319 = {
+					4C57BF88256F54150033E319 = {
 						CreatedOnToolsVersion = 12.1;
-						TestTargetID = 4C57BF0C256F47E90033E319;
+						TestTargetID = 4C57BF6D256F54120033E319;
 					};
-					4C57BF32256F47ED0033E319 = {
+					4C57BF93256F54150033E319 = {
 						CreatedOnToolsVersion = 12.1;
-						TestTargetID = 4C57BF0C256F47E90033E319;
+						TestTargetID = 4C57BF6D256F54120033E319;
 					};
 				};
 			};
-			buildConfigurationList = 4C57BF08256F47E90033E319 /* Build configuration list for PBXProject "WDJPEGEncoder" */;
+			buildConfigurationList = 4C57BF69256F54120033E319 /* Build configuration list for PBXProject "WDJPEGEncoder" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -222,37 +222,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 4C57BF04256F47E90033E319;
-			productRefGroup = 4C57BF0E256F47E90033E319 /* Products */;
+			mainGroup = 4C57BF65256F54120033E319;
+			productRefGroup = 4C57BF6F256F54120033E319 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4C57BF0C256F47E90033E319 /* WDJPEGEncoder */,
-				4C57BF27256F47ED0033E319 /* WDJPEGEncoderTests */,
-				4C57BF32256F47ED0033E319 /* WDJPEGEncoderUITests */,
+				4C57BF6D256F54120033E319 /* WDJPEGEncoder */,
+				4C57BF88256F54150033E319 /* WDJPEGEncoderTests */,
+				4C57BF93256F54150033E319 /* WDJPEGEncoderUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4C57BF0B256F47E90033E319 /* Resources */ = {
+		4C57BF6C256F54120033E319 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C57BF20256F47ED0033E319 /* LaunchScreen.storyboard in Resources */,
-				4C57BF1D256F47ED0033E319 /* Assets.xcassets in Resources */,
-				4C57BF1B256F47E90033E319 /* Main.storyboard in Resources */,
+				4C57BF81256F54140033E319 /* LaunchScreen.storyboard in Resources */,
+				4C57BF7E256F54140033E319 /* Assets.xcassets in Resources */,
+				4C57BF7C256F54120033E319 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C57BF26256F47ED0033E319 /* Resources */ = {
+		4C57BF87256F54150033E319 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C57BF31256F47ED0033E319 /* Resources */ = {
+		4C57BF92256F54150033E319 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -262,61 +262,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4C57BF09256F47E90033E319 /* Sources */ = {
+		4C57BF6A256F54120033E319 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C57BF18256F47E90033E319 /* ViewController.m in Sources */,
-				4C57BF12256F47E90033E319 /* AppDelegate.m in Sources */,
-				4C57BF23256F47ED0033E319 /* main.m in Sources */,
-				4C57BF15256F47E90033E319 /* SceneDelegate.m in Sources */,
+				4C57BF79256F54120033E319 /* ViewController.m in Sources */,
+				4C57BF73256F54120033E319 /* AppDelegate.m in Sources */,
+				4C57BF84256F54140033E319 /* main.m in Sources */,
+				4C57BF76256F54120033E319 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C57BF24256F47ED0033E319 /* Sources */ = {
+		4C57BF85256F54150033E319 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C57BF2D256F47ED0033E319 /* WDJPEGEncoderTests.m in Sources */,
+				4C57BF8E256F54150033E319 /* WDJPEGEncoderTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C57BF2F256F47ED0033E319 /* Sources */ = {
+		4C57BF90256F54150033E319 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C57BF38256F47ED0033E319 /* WDJPEGEncoderUITests.m in Sources */,
+				4C57BF99256F54150033E319 /* WDJPEGEncoderUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4C57BF2A256F47ED0033E319 /* PBXTargetDependency */ = {
+		4C57BF8B256F54150033E319 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4C57BF0C256F47E90033E319 /* WDJPEGEncoder */;
-			targetProxy = 4C57BF29256F47ED0033E319 /* PBXContainerItemProxy */;
+			target = 4C57BF6D256F54120033E319 /* WDJPEGEncoder */;
+			targetProxy = 4C57BF8A256F54150033E319 /* PBXContainerItemProxy */;
 		};
-		4C57BF35256F47ED0033E319 /* PBXTargetDependency */ = {
+		4C57BF96256F54150033E319 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4C57BF0C256F47E90033E319 /* WDJPEGEncoder */;
-			targetProxy = 4C57BF34256F47ED0033E319 /* PBXContainerItemProxy */;
+			target = 4C57BF6D256F54120033E319 /* WDJPEGEncoder */;
+			targetProxy = 4C57BF95256F54150033E319 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		4C57BF19256F47E90033E319 /* Main.storyboard */ = {
+		4C57BF7A256F54120033E319 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4C57BF1A256F47E90033E319 /* Base */,
+				4C57BF7B256F54120033E319 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4C57BF1E256F47ED0033E319 /* LaunchScreen.storyboard */ = {
+		4C57BF7F256F54140033E319 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4C57BF1F256F47ED0033E319 /* Base */,
+				4C57BF80256F54140033E319 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -324,7 +324,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4C57BF3A256F47ED0033E319 /* Debug */ = {
+		4C57BF9B256F54150033E319 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -383,7 +383,7 @@
 			};
 			name = Debug;
 		};
-		4C57BF3B256F47ED0033E319 /* Release */ = {
+		4C57BF9C256F54150033E319 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -436,7 +436,7 @@
 			};
 			name = Release;
 		};
-		4C57BF3D256F47ED0033E319 /* Debug */ = {
+		4C57BF9E256F54150033E319 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -444,17 +444,18 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3ZPP94SLYH;
 				INFOPLIST_FILE = WDJPEGEncoder/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "hetao101.data-track.com.WDJPEGEncoder";
+				PRODUCT_BUNDLE_IDENTIFIER = hetao101.WDJPEGEncoder.com.WDJPEGEncoder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		4C57BF3E256F47ED0033E319 /* Release */ = {
+		4C57BF9F256F54150033E319 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -462,17 +463,18 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3ZPP94SLYH;
 				INFOPLIST_FILE = WDJPEGEncoder/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "hetao101.data-track.com.WDJPEGEncoder";
+				PRODUCT_BUNDLE_IDENTIFIER = hetao101.WDJPEGEncoder.com.WDJPEGEncoder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		4C57BF40256F47ED0033E319 /* Debug */ = {
+		4C57BFA1256F54150033E319 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -485,14 +487,14 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "hetao101.data-track.com.WDJPEGEncoderTests";
+				PRODUCT_BUNDLE_IDENTIFIER = hetao101.WDJPEGEncoder.com.WDJPEGEncoderTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WDJPEGEncoder.app/WDJPEGEncoder";
 			};
 			name = Debug;
 		};
-		4C57BF41256F47ED0033E319 /* Release */ = {
+		4C57BFA2256F54150033E319 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -505,14 +507,14 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "hetao101.data-track.com.WDJPEGEncoderTests";
+				PRODUCT_BUNDLE_IDENTIFIER = hetao101.WDJPEGEncoder.com.WDJPEGEncoderTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WDJPEGEncoder.app/WDJPEGEncoder";
 			};
 			name = Release;
 		};
-		4C57BF43256F47ED0033E319 /* Debug */ = {
+		4C57BFA4256F54150033E319 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -523,14 +525,14 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "hetao101.data-track.com.WDJPEGEncoderUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = hetao101.WDJPEGEncoder.com.WDJPEGEncoderUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = WDJPEGEncoder;
 			};
 			name = Debug;
 		};
-		4C57BF44256F47ED0033E319 /* Release */ = {
+		4C57BFA5256F54150033E319 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -541,7 +543,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "hetao101.data-track.com.WDJPEGEncoderUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = hetao101.WDJPEGEncoder.com.WDJPEGEncoderUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = WDJPEGEncoder;
@@ -551,43 +553,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4C57BF08256F47E90033E319 /* Build configuration list for PBXProject "WDJPEGEncoder" */ = {
+		4C57BF69256F54120033E319 /* Build configuration list for PBXProject "WDJPEGEncoder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C57BF3A256F47ED0033E319 /* Debug */,
-				4C57BF3B256F47ED0033E319 /* Release */,
+				4C57BF9B256F54150033E319 /* Debug */,
+				4C57BF9C256F54150033E319 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4C57BF3C256F47ED0033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoder" */ = {
+		4C57BF9D256F54150033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C57BF3D256F47ED0033E319 /* Debug */,
-				4C57BF3E256F47ED0033E319 /* Release */,
+				4C57BF9E256F54150033E319 /* Debug */,
+				4C57BF9F256F54150033E319 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4C57BF3F256F47ED0033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoderTests" */ = {
+		4C57BFA0256F54150033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoderTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C57BF40256F47ED0033E319 /* Debug */,
-				4C57BF41256F47ED0033E319 /* Release */,
+				4C57BFA1256F54150033E319 /* Debug */,
+				4C57BFA2256F54150033E319 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4C57BF42256F47ED0033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoderUITests" */ = {
+		4C57BFA3256F54150033E319 /* Build configuration list for PBXNativeTarget "WDJPEGEncoderUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C57BF43256F47ED0033E319 /* Debug */,
-				4C57BF44256F47ED0033E319 /* Release */,
+				4C57BFA4256F54150033E319 /* Debug */,
+				4C57BFA5256F54150033E319 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4C57BF05256F47E90033E319 /* Project object */;
+	rootObject = 4C57BF66256F54120033E319 /* Project object */;
 }
