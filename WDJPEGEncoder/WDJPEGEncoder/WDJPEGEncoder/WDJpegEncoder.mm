@@ -284,6 +284,7 @@ bool JpegEncoder::encodeToJPG(const char* fileName, int quality_scale)
 }
 
 //-------------------------------------------------------------------------------
+//* init Huffman */
 void JpegEncoder::_initHuffmanTables(void)
 {
 	memset(&m_Y_DC_Huffman_Table, 0, sizeof(m_Y_DC_Huffman_Table));
