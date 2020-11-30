@@ -10,6 +10,7 @@
 
 namespace {
 //-------------------------------------------------------------------------------
+// jhkhs
 const unsigned char Luminance_Quantization_Table[64] = 
 {
 	16,  11,  10,  16,  24,  40,  51,  61,
